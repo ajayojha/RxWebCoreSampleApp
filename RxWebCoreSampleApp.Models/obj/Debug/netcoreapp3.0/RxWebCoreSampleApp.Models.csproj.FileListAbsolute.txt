@@ -1,0 +1,8 @@
+C:\Users\ajay.ojha\source\repos\RxWebCoreSampleApp\RxWebCoreSampleApp.Models\bin\Debug\netcoreapp3.0\RxWebCoreSampleApp.Models.deps.json
+C:\Users\ajay.ojha\source\repos\RxWebCoreSampleApp\RxWebCoreSampleApp.Models\bin\Debug\netcoreapp3.0\RxWebCoreSampleApp.Models.dll
+C:\Users\ajay.ojha\source\repos\RxWebCoreSampleApp\RxWebCoreSampleApp.Models\bin\Debug\netcoreapp3.0\RxWebCoreSampleApp.Models.pdb
+C:\Users\ajay.ojha\source\repos\RxWebCoreSampleApp\RxWebCoreSampleApp.Models\obj\Debug\netcoreapp3.0\RxWebCoreSampleApp.Models.csprojAssemblyReference.cache
+C:\Users\ajay.ojha\source\repos\RxWebCoreSampleApp\RxWebCoreSampleApp.Models\obj\Debug\netcoreapp3.0\RxWebCoreSampleApp.Models.AssemblyInfoInputs.cache
+C:\Users\ajay.ojha\source\repos\RxWebCoreSampleApp\RxWebCoreSampleApp.Models\obj\Debug\netcoreapp3.0\RxWebCoreSampleApp.Models.AssemblyInfo.cs
+C:\Users\ajay.ojha\source\repos\RxWebCoreSampleApp\RxWebCoreSampleApp.Models\obj\Debug\netcoreapp3.0\RxWebCoreSampleApp.Models.dll
+C:\Users\ajay.ojha\source\repos\RxWebCoreSampleApp\RxWebCoreSampleApp.Models\obj\Debug\netcoreapp3.0\RxWebCoreSampleApp.Models.pdb

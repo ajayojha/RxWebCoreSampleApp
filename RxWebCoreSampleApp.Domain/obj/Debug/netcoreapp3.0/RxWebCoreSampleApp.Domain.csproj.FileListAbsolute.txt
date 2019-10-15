@@ -1,0 +1,17 @@
+C:\Users\ajay.ojha\source\repos\RxWebCoreSampleApp\RxWebCoreSampleApp.Domain\bin\Debug\netcoreapp3.0\RxWebCoreSampleApp.Domain.deps.json
+C:\Users\ajay.ojha\source\repos\RxWebCoreSampleApp\RxWebCoreSampleApp.Domain\bin\Debug\netcoreapp3.0\RxWebCoreSampleApp.Domain.dll
+C:\Users\ajay.ojha\source\repos\RxWebCoreSampleApp\RxWebCoreSampleApp.Domain\bin\Debug\netcoreapp3.0\RxWebCoreSampleApp.Domain.pdb
+C:\Users\ajay.ojha\source\repos\RxWebCoreSampleApp\RxWebCoreSampleApp.Domain\bin\Debug\netcoreapp3.0\RxWebCoreSampleApp.BoundedContext.dll
+C:\Users\ajay.ojha\source\repos\RxWebCoreSampleApp\RxWebCoreSampleApp.Domain\bin\Debug\netcoreapp3.0\RxWebCoreSampleApp.Infrastructure.dll
+C:\Users\ajay.ojha\source\repos\RxWebCoreSampleApp\RxWebCoreSampleApp.Domain\bin\Debug\netcoreapp3.0\RxWebCoreSampleApp.Models.dll
+C:\Users\ajay.ojha\source\repos\RxWebCoreSampleApp\RxWebCoreSampleApp.Domain\bin\Debug\netcoreapp3.0\RxWebCoreSampleApp.UnitOfWork.dll
+C:\Users\ajay.ojha\source\repos\RxWebCoreSampleApp\RxWebCoreSampleApp.Domain\bin\Debug\netcoreapp3.0\RxWebCoreSampleApp.BoundedContext.pdb
+C:\Users\ajay.ojha\source\repos\RxWebCoreSampleApp\RxWebCoreSampleApp.Domain\bin\Debug\netcoreapp3.0\RxWebCoreSampleApp.UnitOfWork.pdb
+C:\Users\ajay.ojha\source\repos\RxWebCoreSampleApp\RxWebCoreSampleApp.Domain\bin\Debug\netcoreapp3.0\RxWebCoreSampleApp.Models.pdb
+C:\Users\ajay.ojha\source\repos\RxWebCoreSampleApp\RxWebCoreSampleApp.Domain\bin\Debug\netcoreapp3.0\RxWebCoreSampleApp.Infrastructure.pdb
+C:\Users\ajay.ojha\source\repos\RxWebCoreSampleApp\RxWebCoreSampleApp.Domain\obj\Debug\netcoreapp3.0\RxWebCoreSampleApp.Domain.csprojAssemblyReference.cache
+C:\Users\ajay.ojha\source\repos\RxWebCoreSampleApp\RxWebCoreSampleApp.Domain\obj\Debug\netcoreapp3.0\RxWebCoreSampleApp.Domain.AssemblyInfoInputs.cache
+C:\Users\ajay.ojha\source\repos\RxWebCoreSampleApp\RxWebCoreSampleApp.Domain\obj\Debug\netcoreapp3.0\RxWebCoreSampleApp.Domain.AssemblyInfo.cs
+C:\Users\ajay.ojha\source\repos\RxWebCoreSampleApp\RxWebCoreSampleApp.Domain\obj\Debug\netcoreapp3.0\RxWebCoreSampleApp.Domain.csproj.CopyComplete
+C:\Users\ajay.ojha\source\repos\RxWebCoreSampleApp\RxWebCoreSampleApp.Domain\obj\Debug\netcoreapp3.0\RxWebCoreSampleApp.Domain.dll
+C:\Users\ajay.ojha\source\repos\RxWebCoreSampleApp\RxWebCoreSampleApp.Domain\obj\Debug\netcoreapp3.0\RxWebCoreSampleApp.Domain.pdb

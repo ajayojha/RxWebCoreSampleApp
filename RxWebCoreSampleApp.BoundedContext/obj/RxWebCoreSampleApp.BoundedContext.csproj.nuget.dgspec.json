@@ -1,0 +1,146 @@
+{
+  "format": 1,
+  "restore": {
+    "C:\\Users\\ajay.ojha\\source\\repos\\RxWebCoreSampleApp\\RxWebCoreSampleApp.BoundedContext\\RxWebCoreSampleApp.BoundedContext.csproj": {}
+  },
+  "projects": {
+    "C:\\Users\\ajay.ojha\\source\\repos\\RxWebCoreSampleApp\\RxWebCoreSampleApp.BoundedContext\\RxWebCoreSampleApp.BoundedContext.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "C:\\Users\\ajay.ojha\\source\\repos\\RxWebCoreSampleApp\\RxWebCoreSampleApp.BoundedContext\\RxWebCoreSampleApp.BoundedContext.csproj",
+        "projectName": "RxWebCoreSampleApp.BoundedContext",
+        "projectPath": "C:\\Users\\ajay.ojha\\source\\repos\\RxWebCoreSampleApp\\RxWebCoreSampleApp.BoundedContext\\RxWebCoreSampleApp.BoundedContext.csproj",
+        "packagesPath": "C:\\Users\\ajay.ojha\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\ajay.ojha\\source\\repos\\RxWebCoreSampleApp\\RxWebCoreSampleApp.BoundedContext\\obj\\",
+        "projectStyle": "PackageReference",
+        "fallbackFolders": [
+          "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
+        ],
+        "configFilePaths": [
+          "C:\\Users\\ajay.ojha\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "netcoreapp3.0"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "netcoreapp3.0": {
+            "projectReferences": {
+              "C:\\Users\\ajay.ojha\\source\\repos\\RxWebCoreSampleApp\\RxWebCoreSampleApp.Models\\RxWebCoreSampleApp.Models.csproj": {
+                "projectPath": "C:\\Users\\ajay.ojha\\source\\repos\\RxWebCoreSampleApp\\RxWebCoreSampleApp.Models\\RxWebCoreSampleApp.Models.csproj"
+              }
+            }
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "netcoreapp3.0": {
+          "dependencies": {
+            "Microsoft.AspNetCore.Http.Abstractions": {
+              "target": "Package",
+              "version": "[2.2.0, )"
+            },
+            "RxWeb.Core.Data": {
+              "target": "Package",
+              "version": "[2.0.0, )"
+            }
+          },
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\3.0.100\\RuntimeIdentifierGraph.json"
+        }
+      }
+    },
+    "C:\\Users\\ajay.ojha\\source\\repos\\RxWebCoreSampleApp\\RxWebCoreSampleApp.Models\\RxWebCoreSampleApp.Models.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "C:\\Users\\ajay.ojha\\source\\repos\\RxWebCoreSampleApp\\RxWebCoreSampleApp.Models\\RxWebCoreSampleApp.Models.csproj",
+        "projectName": "RxWebCoreSampleApp.Models",
+        "projectPath": "C:\\Users\\ajay.ojha\\source\\repos\\RxWebCoreSampleApp\\RxWebCoreSampleApp.Models\\RxWebCoreSampleApp.Models.csproj",
+        "packagesPath": "C:\\Users\\ajay.ojha\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\ajay.ojha\\source\\repos\\RxWebCoreSampleApp\\RxWebCoreSampleApp.Models\\obj\\",
+        "projectStyle": "PackageReference",
+        "fallbackFolders": [
+          "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
+        ],
+        "configFilePaths": [
+          "C:\\Users\\ajay.ojha\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "netcoreapp3.0"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "netcoreapp3.0": {
+            "projectReferences": {}
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "netcoreapp3.0": {
+          "dependencies": {
+            "Microsoft.EntityFrameworkCore.SqlServer": {
+              "target": "Package",
+              "version": "[2.2.6, )"
+            },
+            "RxWeb.Core.Annotations": {
+              "target": "Package",
+              "version": "[2.0.0, )"
+            },
+            "RxWeb.Core.Sanitizers": {
+              "target": "Package",
+              "version": "[2.0.0, )"
+            }
+          },
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\3.0.100\\RuntimeIdentifierGraph.json"
+        }
+      }
+    }
+  }
+}

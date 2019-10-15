@@ -1,0 +1,43 @@
+trigger:
+- master
+
+pool:
+  vmImage: 'windows-latest'
+
+variables:
+  projectName: 'RxWebCoreSampleApp'
+  solutionFile: 'RxWebCoreSampleApp.sln' 
+  apiProject: 'RxWebCoreSampleApp.Api/RxWebCoreSampleApp.Api.csproj' 
+
+  publishApiProjectPath: 'RxWebCoreSampleApp.Api/bin/Release/netcoreapp3.0/publish/'
+  
+  
+  buildPlatform: 'Any CPU'
+  buildConfiguration: 'Release'
+
+steps:
+- task: NuGetToolInstaller@1
+  inputs:
+    versionSpec: '5.2.0'
+  displayName: 'Use Nuget 5.2'
+
+- task: NuGetCommand@2
+  inputs:
+    restoreSolution: '$(solutionFile)'
+  displayName: 'Nuget Restore'
+
+- task: DotNetCoreCLI@2
+  inputs:
+    command: 'publish'
+    publishWebProjects: false
+    projects: |
+      $(apiProject)
+    arguments: '/p:configuration=Release'
+    zipAfterPublish: false
+  displayName: 'Publish Projects'
+- task: PublishBuildArtifacts@1
+  inputs:
+    PathtoPublish: '$(publishApiProjectPath)'
+    ArtifactName: '$(projectName)-API' 
+    publishLocation: 'Container'
+  displayName: 'Publish $(projectName)-API' 

@@ -1,0 +1,13 @@
+C:\Users\ajay.ojha\source\repos\RxWebCoreSampleApp\RxWebCoreSampleApp.UnitOfWork\bin\Debug\netcoreapp3.0\RxWebCoreSampleApp.UnitOfWork.deps.json
+C:\Users\ajay.ojha\source\repos\RxWebCoreSampleApp\RxWebCoreSampleApp.UnitOfWork\bin\Debug\netcoreapp3.0\RxWebCoreSampleApp.UnitOfWork.dll
+C:\Users\ajay.ojha\source\repos\RxWebCoreSampleApp\RxWebCoreSampleApp.UnitOfWork\bin\Debug\netcoreapp3.0\RxWebCoreSampleApp.UnitOfWork.pdb
+C:\Users\ajay.ojha\source\repos\RxWebCoreSampleApp\RxWebCoreSampleApp.UnitOfWork\bin\Debug\netcoreapp3.0\RxWebCoreSampleApp.BoundedContext.dll
+C:\Users\ajay.ojha\source\repos\RxWebCoreSampleApp\RxWebCoreSampleApp.UnitOfWork\bin\Debug\netcoreapp3.0\RxWebCoreSampleApp.Models.dll
+C:\Users\ajay.ojha\source\repos\RxWebCoreSampleApp\RxWebCoreSampleApp.UnitOfWork\bin\Debug\netcoreapp3.0\RxWebCoreSampleApp.BoundedContext.pdb
+C:\Users\ajay.ojha\source\repos\RxWebCoreSampleApp\RxWebCoreSampleApp.UnitOfWork\bin\Debug\netcoreapp3.0\RxWebCoreSampleApp.Models.pdb
+C:\Users\ajay.ojha\source\repos\RxWebCoreSampleApp\RxWebCoreSampleApp.UnitOfWork\obj\Debug\netcoreapp3.0\RxWebCoreSampleApp.UnitOfWork.csprojAssemblyReference.cache
+C:\Users\ajay.ojha\source\repos\RxWebCoreSampleApp\RxWebCoreSampleApp.UnitOfWork\obj\Debug\netcoreapp3.0\RxWebCoreSampleApp.UnitOfWork.AssemblyInfoInputs.cache
+C:\Users\ajay.ojha\source\repos\RxWebCoreSampleApp\RxWebCoreSampleApp.UnitOfWork\obj\Debug\netcoreapp3.0\RxWebCoreSampleApp.UnitOfWork.AssemblyInfo.cs
+C:\Users\ajay.ojha\source\repos\RxWebCoreSampleApp\RxWebCoreSampleApp.UnitOfWork\obj\Debug\netcoreapp3.0\RxWebCoreSampleApp.UnitOfWork.csproj.CopyComplete
+C:\Users\ajay.ojha\source\repos\RxWebCoreSampleApp\RxWebCoreSampleApp.UnitOfWork\obj\Debug\netcoreapp3.0\RxWebCoreSampleApp.UnitOfWork.dll
+C:\Users\ajay.ojha\source\repos\RxWebCoreSampleApp\RxWebCoreSampleApp.UnitOfWork\obj\Debug\netcoreapp3.0\RxWebCoreSampleApp.UnitOfWork.pdb
